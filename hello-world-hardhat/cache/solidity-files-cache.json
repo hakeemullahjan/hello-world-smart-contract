@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/hakeemullah/Desktop/Code-lab/web3/hello-world-smart-contract/hello-world/contracts/HelloWorld.sol": {
+    "/home/hakeemullah/Desktop/Code-lab/web3/hello-world-smart-contract/hello-world-hardhat/contracts/HelloWorld.sol": {
       "lastModificationDate": 1640286987230,
       "contentHash": "dc46cfdbe5b226f7c892e12bc71d488d",
       "sourceName": "contracts/HelloWorld.sol",
